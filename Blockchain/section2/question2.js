@@ -71,5 +71,5 @@ console.log("Get " + newAcc2.name + " balance : " + balanceAcc2)
 - The set balance method is to update balance when money in.
 - The get balance method is to display current balance that available for the current account.
 - Transfer method is to transfer balance from first account to another account and set the new balance for the other account.
-
+- Finally it will display both account balance.
 */
